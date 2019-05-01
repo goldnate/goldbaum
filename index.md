@@ -9,7 +9,7 @@ title: Socialist Potluck
     #can_main_col * {order:6}
     #can_main_col h2 {order:1}
     #can_main_col img {order:2}
-    #can_main_col div.action_description.clearfix {order:4}
-    #can_main_col div.event_info.view_event_info.js-event_info {order:3}
+    #can_main_col #event_desc {order:4}
+    #can_main_col div.last_line {order:3}
     #can_main_col div.event_map_wrap {order:5}
 </style>
