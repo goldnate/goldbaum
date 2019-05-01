@@ -6,7 +6,8 @@ title: Socialist Potluck
 
 <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/socialist-potluck?format=js&source=widget&style=full'></script><div id='can-event-area-socialist-potluck'><!-- this div is the target for our HTML insertion --></div>
 
-<style>
+<style>   
+    .main-content {padding: 2rem 0;}
     #can_main_col {display:flex; flex-direction:column; width: 55%}
     #can_main_col * {order:6}
     #can_main_col img {order:2}
@@ -15,8 +16,6 @@ title: Socialist Potluck
     #can_main_col div.event_map_wrap {order:5}
     #can_sidebar {width:43%}
     @media screen and (max-width:800px) {
-      #can_main_col, #can_sidebar {
-        width:100%;
-      }
+      #can_main_col, #can_sidebar {width:100%;}
     }
 </style>
