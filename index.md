@@ -12,4 +12,9 @@ title: Socialist Potluck
     #can_main_col div.last_line {order:3}
     #can_main_col div.event_map_wrap {order:5}
     #can_sidebar {width:43%}
+    @media screen and (max-width:800px) {
+      #can_main_col, #can_sidebar {
+        width:100%;
+      }
+    }
 </style>
