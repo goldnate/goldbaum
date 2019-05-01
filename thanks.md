@@ -12,4 +12,4 @@ If you have any questions, don't hesitate to email or call either one of us:
 
 [Kim](mailto:unionkimmy@gmail.com): 773-960-5169
 
-See you on Saturday!
+**See you on Saturday!**
