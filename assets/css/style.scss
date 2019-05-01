@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  color: #a41e27
+  color: #a41e27;
 }
 
 section.page-header a.btn {display:none}
@@ -13,4 +13,8 @@ section.page-header a.btn {display:none}
   background-image: url('/goldbaum/18447371_1322959754465942_3659102835151508306_n.jpg');
   background-repeat: no-repeat;
   background-position: center center;
+}
+
+#main-content h1, #main-content h2, #main-content h3, #main-content h4, #main-content h5, #main-content h6 {
+  color: #a41e27;
 }
