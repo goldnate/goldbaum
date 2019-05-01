@@ -7,7 +7,6 @@ title: Socialist Potluck
 <style>
     #can_main_col {display:flex; flex-direction:column;}
     #can_main_col * {order:6}
-    #can_main_col h2 {order:1}
     #can_main_col img {order:2}
     #can_main_col #event_desc {order:4}
     #can_main_col div.last_line {order:3}
