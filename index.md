@@ -1,10 +1,9 @@
 ---
-title: Socialist Potluck
+title: Tzedek Services Happen Here
 ---
 
-# UChicago Socialists Potluck!
+# Hi, Brant!
 
-<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/socialist-potluck?format=js&source=widget&style=full'></script><div id='can-event-area-socialist-potluck'><!-- this div is the target for our HTML insertion --></div>
 
 <style>   
     .main-content {padding: 2rem 0;}
